@@ -1,0 +1,10 @@
+<Project>
+ <PropertyGroup>
+   <Version>1.0.1</Version>
+   <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Company>Hyperledger</Company>
+    <Authors>Hyperledger Aries Dotnet Maintainers</Authors>
+    <PackageProjectUrl>https://github.com/hyperledger/aries-framework-dotnet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/hyperledger/aries-framework-dotnet</RepositoryUrl>
+ </PropertyGroup>
+</Project>

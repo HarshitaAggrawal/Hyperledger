@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "WebAgent": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "AGENT_NAME": "My Agency",
+        "ASPNETCORE_URLS": "http://*:80",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ENDPOINT_HOST": "http://15.206.165.79:80"
+      },
+      "applicationUrl": "http://localhost:5000/"
+    }
+  }
+}
